@@ -1,6 +1,8 @@
 streamlit
 transformers
+torch
 nltk
 wordcloud
 matplotlib
 pandas
+
